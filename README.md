@@ -1,4 +1,4 @@
-# [Live](https://prathambhushan.github.io/SortingAlgo-visualizer/)
+# [Live](https://nilaybadjatya.github.io/Sorting-Visualizer/)
 
 <br>
  **Worked on this project while learning basics of sorting.**
